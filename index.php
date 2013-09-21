@@ -23,6 +23,7 @@
       <h3>Vos sos el futuro.<br> Vamos a construirlo juntos.</h3>
       <h4>Noviembre 2013. <br>Más de 70 actividades en todo el país.</h4>
       <div class="btn"><a href="ingresar">Ingresar actividad</a></div>
+        <div class="btn"><a href="actividades">Notificarme cuando publiquen las actividades</a></div>
     </div>
     <figure></figure>
   </div>

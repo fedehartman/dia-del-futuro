@@ -325,7 +325,7 @@ body {background-color: #009cdf;}
   }
 
 .home .main .btn a {margin: 20px 0px 0px 0px; padding-left: 8px;}
-.actividades .main .btn a {margin: 30px 0px 0px 200px; padding-left: 8px;}
+.actividades .main .btn a {margin: 30px 0px 0px 50px; padding-left: 8px;}
 
 .home .main .btn a:before,
 .actividades .main .btn a:before {
@@ -455,7 +455,7 @@ body {background-color: #009cdf;}
   .main .content p i {font-style: italic;}
 
 .actividades .main .content p {
-  margin: 30px 0px 0px 47px;
+  margin: 10px 0px 0px 47px;
   width: 500px;
   }
 

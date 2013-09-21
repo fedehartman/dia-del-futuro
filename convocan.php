@@ -60,6 +60,7 @@
         <li><a href="http://www.ute.com.uy" target="_blank"><img src="img/logo-ute.png"></a></li>
         <li><a href="http://www.rafap.com.uy" target="_blank"><img src="img/logo-republica-afap.png"></a></li>
         <li><a href="http://www.espectador.com" target="_blank"><img src="img/logo-espectador.png"></a></li>
+          <li><a href="http://www.tcc.com.uy" target="_blank"><img src="img/logo-tcc.png"></a></li>
       </ul>
 
       <h4>Apoya</h4>
